@@ -1,0 +1,116 @@
+.topmenu ul{
+    float: left;
+    list-style: none;
+    background-color: black;
+    width: 100%;
+    color: white;
+    font-size: 18px;
+}
+.topmenu li{
+    display: inline-block;
+    line-height: 45px;
+    padding-left: 40px;
+}
+
+.mainmenu{
+    float: left;
+    width: 55%;
+}
+
+.title h1{
+    border-left: 5px solid black;
+    border-bottom: 1px solid black;
+}
+
+.nyuryoku{
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width:100%;
+}
+
+.nyuryoku h2{ margin: 0 auto;
+margin-top:30px;
+margin-bottom:20px;
+border-left:4px red solid;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:15px;
+font-size:20px;
+}
+
+
+
+form div{
+    padding:15px;
+    }
+
+.text, textarea{
+border:1px solid #dfdfdf;
+padding:5px;
+color: #999;
+background: #fff;
+}
+
+.submit{
+border:1px solid lightgray;
+padding: 4px 10px;
+color:white;
+background-color:#bfbfbf;
+border-radius: 5px;
+border-bottom: solid 2px gray;
+}
+
+
+
+.kiji{
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width:100%;
+}
+
+.kiji h3{
+    border-bottom: solid 2px lightgray;
+}
+
+.contents{
+    margin:5px;
+    padding-bottom: 5px;
+}
+
+.handlename{
+    font-size: 12px;
+}
+
+
+
+
+.sidemenu{
+    float: right;
+    width: 40%;
+    margin-right: 50px;
+    line-height: 30px;
+}
+
+.sidemenu ul{
+    list-style-type: none;
+}
+
+.sidemenu h2{
+    border-bottom: 3px dotted black;
+}
+
+footer{
+    clear:left;
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}
